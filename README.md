@@ -6,9 +6,8 @@ The purpose of this lab was to explore and analyze a weather dataset for Seattle
 ## Key Insights
 
 ### Visualizations
-- **Line Plot (Maximum Temperature Over Time):** Showed clear seasonal variation in maximum temperatures. Winter days had low maximum temperatures (~6–7°C), summer days were much hotter (~28–31°C), and transitional fall dates had moderate temperatures (~13°C).
 - **Scatter Plot (Max Temperature vs Precipitation):** Indicated that colder days were associated with higher precipitation, while warmer summer days had little to no precipitation. This suggests a seasonal relationship between temperature and precipitation.
-- **Bar Chart (Weather Conditions):** Highlighted that sunny conditions were most frequent in the sample, while snow, rain, and fog occurred less often.
+- **Bar Chart (Weather Conditions):** Highlighted that rainy and sunny conditions were most frequent in the sample, while fog, drizzle, and fog occurred less often.
 
 ### Statistical Measures
 - **Central Tendency:** Mean and median values provided an understanding of typical temperature and precipitation levels, while mode highlighted the most common values (e.g., zero precipitation on several summer days).
